@@ -124,9 +124,4 @@ Some geographic locations were not automatically recognized by Tableau.
 ---
 
 # Dashboard Preview
-_Add screenshots of your Tableau dashboard here._
-
-Example:
-
-```md
 ![Dashboard Screenshot](dashboard.png)
