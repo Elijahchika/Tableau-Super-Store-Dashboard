@@ -10,6 +10,10 @@ This project analyzes a Superstore Sales dataset using Tableau to uncover busine
 - Visualize geographic sales distribution
 - Forecast future sales trends
 - Build an interactive dashboard for business reporting
+- ## 📊 Dashboard Preview
+![Dashboard Screenshot]
+(dashboard.png)
+- 
 
 ---
 
