@@ -126,6 +126,9 @@ Some geographic locations were not automatically recognized by Tableau.
 # Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
 
+## Live Dashboard
+[View Interactive Dashboard](https://public.tableau.com/views/_twbxTableauPackageWorkbook/KPIDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+)
 
 ## 📁 Project Files
 - `dashboard.twbx` → Tableau dashboard file
