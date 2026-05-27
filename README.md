@@ -125,3 +125,22 @@ Some geographic locations were not automatically recognized by Tableau.
 
 # Dashboard Preview
 ![Dashboard Screenshot](dashboard.png)
+
+
+## 📁 Project Files
+- `dashboard.twbx` → Tableau dashboard file
+- `dashboard.png` → Dashboard screenshot
+- `README.md` → Project documentation
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` file
+2. Open in Tableau Desktop
+3. Interact with filters and visuals
+
+---
+
+## 👤 Author
+**Chika**  
+Aspiring Data Analyst | SQL • Excel • Tableau
